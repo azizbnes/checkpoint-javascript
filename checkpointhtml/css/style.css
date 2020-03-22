@@ -1,0 +1,37 @@
+body{
+	background-image: 
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.nav{
+	
+	height: 70px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+.nav a{
+	color: white;
+	text-decoration: none;
+	margin-left:120px
+}
+#imgcontact {width:100%;background-size: cover}
+.blanc{
+	color:white;
+    }
+	.imgcourses{
+justify-content: center;
+display: flex;
+	}
+	#courses{
+		color:blue;
+	}
+	.photo{
+		text-align: block
+	}
+
+
